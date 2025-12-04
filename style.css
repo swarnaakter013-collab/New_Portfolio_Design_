@@ -67,6 +67,7 @@ font-size: 25px;
 .about-section{
     background: linear-gradient(45deg,#ff9800,#ff5722);
     color: white;
+    padding-bottom: 50px;
     
 }
 
@@ -95,7 +96,7 @@ font-size: 25px;
 .contact-section{
     background: linear-gradient(45deg,#ff9800,#ff5722);
     color: white;
-    height: 90vh;
+    padding-bottom: 50px;
 }
 .contact-form{
     width: 400px;
@@ -194,3 +195,4 @@ font-size: 25px;
     color: #888;
 
 }
+
