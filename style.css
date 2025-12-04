@@ -41,7 +41,7 @@ body{
     padding: 100px 80px;
     background: linear-gradient(45deg,#ff9800,#ff5722);
     color: white;
-    height: 90vh;
+    
 }
 .btn{
     display: inline-block;
@@ -67,7 +67,7 @@ font-size: 25px;
 .about-section{
     background: linear-gradient(45deg,#ff9800,#ff5722);
     color: white;
-    height: 90vh;
+    
 }
 
 .about-container{
@@ -120,7 +120,7 @@ font-size: 25px;
 .project-section{
     background: linear-gradient(45deg,#ff9800,#ff5722);
     color: white;
-    height: 90vh;
+    
 }
 /* PROJECTS */
 .project-grid{
@@ -192,4 +192,5 @@ font-size: 25px;
 .footer-bottom{
     font-size: 12px;
     color: #888;
+
 }
